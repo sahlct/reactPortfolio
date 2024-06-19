@@ -8,13 +8,13 @@ export function Navbar() {
           <i class="lni lni-magento"></i>
           <p className="font-semibold">mhdsahlct@gmail.com</p>
         </div>
-        <div className="text-white flex gap-3 font-light">
+        <div className="text-blue-100 flex gap-10 font-light text-xl">
           <button>Services</button>
           <button>Works</button>
           <button>Resume</button>
           <button>Skills</button>
           <button>Contact</button>
-          <button className="ms-10 px-4 bg-gradient-to-r from-[#7d4aea] to-[#3a1c71] rounded-xl font-bold m-1">Hire Me!</button>
+          <button className="ms-10 px-4 bg-gradient-to-r from-[#7d4aea] to-[#3a1c71] rounded-xl font-bold text-lg m-1">Hire Me!</button>
         </div>
       </div>
     </>
